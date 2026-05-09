@@ -4,6 +4,8 @@
 **Author:** Noam Baum
 **Compatibility:** Claude Code (CLI)
 
+https://img.shields.io/github/downloads/NoamBaum/claude-skills/smart-context-manager
+
 ---
 
 ## What It Does
